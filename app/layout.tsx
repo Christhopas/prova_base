@@ -11,7 +11,7 @@ export default function RootLayout({
         <header>
           <h1>App de Receitas</h1>
         </header>
-        <main>{children}</main>
+        <main>{children}</main> 
         <footer>
           <p>Footer</p>
         </footer>
